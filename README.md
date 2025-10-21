@@ -24,6 +24,6 @@ We are assuming you are using localhost port 3000 unless you change it in server
 
 ### Feature Flags
 
-- `enable-image-uploads` - Controls image upload functionality
-- `theme-selection` - Enables theme selection dropdown (light/dark mode for entire website)
-- `show-feature-flag-info` - Controls visibility of the feature flag status display - perfect for development. 
+- `enable-image-uploads` - Controls image upload functionality. Default = false
+- `theme-selection` - Enables theme selection dropdown (light/dark mode for entire website). Default = false
+- `show-feature-flag-info` - Controls visibility of the feature flag status display - perfect for development. Default = true
