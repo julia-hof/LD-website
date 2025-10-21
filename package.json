@@ -1,0 +1,19 @@
+{
+  "name": "billboard-website",
+  "version": "1.0.0",
+  "description": "Billboard website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'No build step required for static site'",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "launchdarkly-js-client-sdk": "^3.0.0",
+    "launchdarkly-node-server-sdk": "^7.0.4",
+    "express": "^4.18.0",
+    "ws": "^8.14.0"
+  },
+  "author": "Julia Hofmeister"
+}
