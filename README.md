@@ -1,6 +1,6 @@
 # Billboard Newsletter Website
 
-A simple billboard website for sharing prompts, pictures, and short blurbs. Integrates with LaunchDarkly's feature flags and context for dynamic functionality control.
+A simple billboard website for sharing prompts, pictures, and short blurbs. Integrates with LaunchDarkly's feature flags and context for real-time control.
 
 ## How to install
 
